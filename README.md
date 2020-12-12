@@ -1,8 +1,10 @@
 ## 🧑🏻‍💻 Kim Jeongmyeong, Backend Developer
 
-<div align=center>
+  <div align=center>
+
   ![image](https://github.com/JeongmyeongzZ/JeongmyeongzZ/blob/main/main.jpeg?raw=true)
-</div>
+
+  </div>
 
 **skills**
 

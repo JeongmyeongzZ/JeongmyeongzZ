@@ -3,7 +3,7 @@
   
 
 <div align=center>
-![Main image](https://github.com/JeongmyeongzZ/JeongmyeongzZ/blob/main/main.jpeg)
+  ![Main image](https://github.com/JeongmyeongzZ/JeongmyeongzZ/blob/main/main.jpeg)
 </div>
 
 **skills**

@@ -2,7 +2,7 @@
 
   <div align=center>
 
-  ![image](https://github.com/JeongmyeongzZ/JeongmyeongzZ/blob/main/main.jpeg?raw=true)
+  ![Main dot image](https://github.com/JeongmyeongzZ/JeongmyeongzZ/blob/main/type.gif?raw=true)
 
   </div>
 

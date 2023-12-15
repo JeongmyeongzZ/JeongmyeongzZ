@@ -1,8 +1,6 @@
-## 🧑🏻‍💻 Kim Jeongmyeong, Backend Developer
-
   <div align=center>
 
-  ![Main dot image](https://github.com/JeongmyeongzZ/JeongmyeongzZ/blob/main/type.gif?raw=true)
+  ![Main dot image](https://github.com/JeongmyeongzZ/JeongmyeongzZ/blob/main/mainmood.gif?raw=true)
 
   </div>
 
@@ -21,9 +19,3 @@
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kimbym23@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/정명-김-5549721b4/)
-
-
-**Statistics**
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jeongmyeongzz)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeongmyeongzz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
